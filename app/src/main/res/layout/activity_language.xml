@@ -75,7 +75,7 @@
                             android:paddingStart="@dimen/_5sdp"
                             android:src="@drawable/ic_checked_interest"
                             android:textAlignment="center"
-                            android:textColor="@color/colorWhite"
+                            android:textColor="@color/black"
                             android:textSize="@dimen/_14sdp"
                             tools:ignore="SpUsage" />
 

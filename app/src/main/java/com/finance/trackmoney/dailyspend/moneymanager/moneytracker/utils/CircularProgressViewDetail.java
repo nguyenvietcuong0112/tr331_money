@@ -58,13 +58,12 @@ public class CircularProgressViewDetail extends View {
         float sweepAngle = (360f * progress) / 100;
         canvas.drawArc(rectF, -90, sweepAngle, false, paint);
         if (showRemainingText) {
-            textPaint.setColor(Color.parseColor("#1F2124"));
-            canvas.drawText("Remaining", getWidth() / 2, getHeight() / 2 - 5, textPaint);
+            textPaint.setColor(Color.parseColor("#000000"));
             canvas.drawText(progress + "%", getWidth() / 2, getHeight() / 2 + 20, textPaint);
         } else {
-            textPaint.setTextSize(40f);
+            textPaint.setTextSize(20f);
             paint.setStrokeWidth(20f);
-            textPaint.setColor(Color.parseColor("#1F2124"));
+            textPaint.setColor(Color.parseColor("#FFFFFF"));
             canvas.drawText(progress + "%", getWidth() / 2, getHeight() / 2 + 20, textPaint);
 
         }

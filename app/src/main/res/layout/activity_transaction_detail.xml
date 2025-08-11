@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="@color/black"
     android:orientation="vertical">
 
     <RelativeLayout
@@ -27,7 +27,7 @@
             android:layout_centerHorizontal="true"
             android:fontFamily="@font/roboto_bold"
             android:text="Transactions"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="@dimen/_18sdp"
             android:textStyle="bold" />
 
@@ -62,7 +62,7 @@
                 android:layout_marginTop="16dp"
                 android:fontFamily="@font/roboto_bold"
                 android:text="Drink"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="16sp" />
 
             <TextView
@@ -92,7 +92,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_medium"
                 android:text="Day trading"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="16sp" />
 
             <LinearLayout
@@ -109,7 +109,7 @@
                     android:layout_height="match_parent"
                     android:gravity="center_vertical"
                     android:text="23/5/2312"
-                    android:textColor="#313131"
+                    android:textColor="@color/white"
                     android:textSize="@dimen/_14sdp"
                     android:textStyle="bold" />
 
@@ -121,7 +121,7 @@
                 android:layout_marginTop="@dimen/_10sdp"
                 android:fontFamily="@font/roboto_medium"
                 android:text="Note"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textSize="16sp" />
 
             <LinearLayout
@@ -139,7 +139,7 @@
                     android:fontFamily="@font/roboto_bold"
                     android:gravity="center_vertical"
                     android:text="an sang"
-                    android:textColor="#313131"
+                    android:textColor="@color/white"
                     android:textSize="16sp" />
 
 
