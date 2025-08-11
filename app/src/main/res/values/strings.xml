@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Money Manager: Expends Log</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string name="note_continue1">Track Your Money with Ease</string>
+    <string name="note_continue2">Smart Budgeting in One Tap</string>
+    <string name="note_continue3">Visualize Your Expenses Clearly</string>
+    <string name="note_continue4">Turn Spending into Saving</string>
+
+    <string name="note_guide1">Tap ‘Budget’ to manage your spending</string>
+    <string name="note_guide2">See your remaining balance at a glance</string>
+    <string name="note_guide3">Switch between budgets effortlessly</string>
+    <string name="note_guide4">Analyze spending and stay on track</string>
+
+</resources>

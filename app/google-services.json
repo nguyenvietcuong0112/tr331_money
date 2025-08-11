@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427013852312",
+    "project_id": "tr331-moneytracker",
+    "storage_bucket": "tr331-moneytracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427013852312:android:51ca398bec5f2abc7894ed",
+        "android_client_info": {
+          "package_name": "com.finance.trackmoney.dailyspend.moneymanager.moneytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBH97eE_RJHUKA0xqlrGana3T0xxI80iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
